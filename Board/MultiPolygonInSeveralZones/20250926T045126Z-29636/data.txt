@@ -1,0 +1,10 @@
+file: MultiPolygonInSeveralZones.qs2
+file_size: 193857
+pin_hash: 29636f585e73ce95
+type: qs2
+title: 'MultiPolygonInSeveralZones: a pinned 180 x 10 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250926T045126Z
+api_version: 1

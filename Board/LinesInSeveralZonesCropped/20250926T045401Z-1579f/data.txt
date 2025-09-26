@@ -1,0 +1,10 @@
+file: LinesInSeveralZonesCropped.qs2
+file_size: 1915814
+pin_hash: 1579fafb2a2629ea
+type: qs2
+title: 'LinesInSeveralZonesCropped: a pinned 27549 x 10 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250926T045401Z
+api_version: 1

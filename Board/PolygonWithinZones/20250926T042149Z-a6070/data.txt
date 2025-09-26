@@ -1,0 +1,10 @@
+file: PolygonWithinZones.qs2
+file_size: 5522504
+pin_hash: a607008d732757a4
+type: qs2
+title: 'PolygonWithinZones: a pinned 37139 x 10 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250926T042149Z
+api_version: 1

@@ -1,0 +1,10 @@
+file: MultiPolygonInSeveralZonesCropped.qs2
+file_size: 196013
+pin_hash: 6b00caaac9b5d6b7
+type: qs2
+title: 'MultiPolygonInSeveralZonesCropped: a pinned 180 x 10 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250926T045401Z
+api_version: 1

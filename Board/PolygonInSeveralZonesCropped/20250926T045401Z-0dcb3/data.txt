@@ -1,0 +1,10 @@
+file: PolygonInSeveralZonesCropped.qs2
+file_size: 400350
+pin_hash: 0dcb3e1c84e4959c
+type: qs2
+title: 'PolygonInSeveralZonesCropped: a pinned 1730 x 10 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250926T045401Z
+api_version: 1

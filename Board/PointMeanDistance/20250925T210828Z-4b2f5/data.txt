@@ -1,0 +1,10 @@
+file: PointMeanDistance.qs2
+file_size: 104526
+pin_hash: 4b2f57e30f2418ce
+type: qs2
+title: 'PointMeanDistance: a pinned 11184 x 3 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250925T210828Z
+api_version: 1

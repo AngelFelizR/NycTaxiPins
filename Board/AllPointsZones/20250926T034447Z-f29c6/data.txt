@@ -1,0 +1,10 @@
+file: AllPointsZones.qs2
+file_size: 4851700
+pin_hash: f29c64ff88daf0cb
+type: qs2
+title: 'AllPointsZones: a pinned 230491 x 10 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250926T034447Z
+api_version: 1

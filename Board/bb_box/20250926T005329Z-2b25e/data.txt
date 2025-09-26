@@ -1,0 +1,10 @@
+file: bb_box.qs2
+file_size: 183
+pin_hash: 2b25efe86b4c41d5
+type: qs2
+title: 'bb_box: a pinned double vector'
+description: ~
+tags: ~
+urls: ~
+created: 20250926T005329Z
+api_version: 1

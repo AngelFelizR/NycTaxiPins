@@ -1,0 +1,10 @@
+file: ValidZoneSample.qs2
+file_size: 17856231
+pin_hash: 4d505a54ddef87ff
+type: qs2
+title: 'ValidZoneSample: a pinned 532466 x 28 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250925T030241Z
+api_version: 1

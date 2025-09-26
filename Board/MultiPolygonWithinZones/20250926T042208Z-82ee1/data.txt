@@ -1,0 +1,10 @@
+file: MultiPolygonWithinZones.qs2
+file_size: 943179
+pin_hash: 82ee19163d010be9
+type: qs2
+title: 'MultiPolygonWithinZones: a pinned 807 x 10 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250926T042208Z
+api_version: 1

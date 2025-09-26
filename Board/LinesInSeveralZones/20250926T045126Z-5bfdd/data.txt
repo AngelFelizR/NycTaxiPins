@@ -1,0 +1,10 @@
+file: LinesInSeveralZones.qs2
+file_size: 1715793
+pin_hash: 5bfdd9a71c201300
+type: qs2
+title: 'LinesInSeveralZones: a pinned 27549 x 10 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250926T045126Z
+api_version: 1

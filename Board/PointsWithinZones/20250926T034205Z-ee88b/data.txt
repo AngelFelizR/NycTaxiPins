@@ -1,0 +1,10 @@
+file: PointsWithinZones.qs2
+file_size: 4851659
+pin_hash: ee88b809f01f7427
+type: qs2
+title: 'PointsWithinZones: a pinned 230491 x 10 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250926T034205Z
+api_version: 1
