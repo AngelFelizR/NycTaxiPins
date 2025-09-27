@@ -1,0 +1,10 @@
+file: DecVariableTracts.qs2
+file_size: 477484
+pin_hash: 5fc0874b34c52c2c
+type: qs2
+title: 'DecVariableTracts: a pinned 1840 x 54 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250927T014847Z
+api_version: 1

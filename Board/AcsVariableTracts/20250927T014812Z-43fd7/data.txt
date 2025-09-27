@@ -1,0 +1,10 @@
+file: AcsVariableTracts.qs2
+file_size: 7107125
+pin_hash: 43fd7c64af45ca08
+type: qs2
+title: 'AcsVariableTracts: a pinned 1840 x 2726 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250927T014812Z
+api_version: 1
