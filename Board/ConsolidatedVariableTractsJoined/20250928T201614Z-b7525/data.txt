@@ -1,0 +1,10 @@
+file: ConsolidatedVariableTractsJoined.qs2
+file_size: 14060680
+pin_hash: b75255a6e0bce958
+type: qs2
+title: Consolidated Variable Tracts Joined
+description: ~
+tags: ~
+urls: ~
+created: 20250928T201614Z
+api_version: 1

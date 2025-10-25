@@ -1,0 +1,10 @@
+file: SimulationStartDay.qs2
+file_size: 4483
+pin_hash: 3a644f57795bd8fb
+type: qs2
+title: 'SimulationStartDay: a pinned 60 x 28 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250925T204220Z
+api_version: 1

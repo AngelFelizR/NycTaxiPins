@@ -1,0 +1,10 @@
+file: MultiLinesInSeveralZones.qs2
+file_size: 54138
+pin_hash: d1b86b77bd2184a6
+type: qs2
+title: 'MultiLinesInSeveralZones: a pinned 373 x 10 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250926T045126Z
+api_version: 1

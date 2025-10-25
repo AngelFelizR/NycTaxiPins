@@ -1,0 +1,10 @@
+file: ValidTablesLastYear.qs2
+file_size: 973204
+pin_hash: f56a8f7b25e7bfd2
+type: qs2
+title: 'ValidTablesLastYear: a pinned 159721 x 7 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250927T014127Z
+api_version: 1

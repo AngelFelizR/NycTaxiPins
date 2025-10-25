@@ -1,0 +1,10 @@
+file: AllPolygonZones.qs2
+file_size: 7548307
+pin_hash: 2fe7a6929a608f91
+type: qs2
+title: 'AllPolygonZones: a pinned 39856 x 10 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250926T034536Z
+api_version: 1

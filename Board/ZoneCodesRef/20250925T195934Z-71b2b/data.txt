@@ -1,0 +1,10 @@
+file: ZoneCodesRef.qs2
+file_size: 4010
+pin_hash: 71b2bd3055b9c13c
+type: qs2
+title: 'ZoneCodesRef: a pinned 265 x 4 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250925T195934Z
+api_version: 1

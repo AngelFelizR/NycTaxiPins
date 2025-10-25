@@ -1,0 +1,10 @@
+file: ConceptsToExploreByDistance.qs2
+file_size: 23190
+pin_hash: 486d0757778a05df
+type: qs2
+title: 'ConceptsToExploreByDistance: a pinned 4033 x 5 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250927T014504Z
+api_version: 1

@@ -1,0 +1,10 @@
+file: DoVariableTractsMeanDiff.qs2
+file_size: 45453
+pin_hash: da84ecd0258c2fd4
+type: qs2
+title: DO Variable Tracts Mean Diff
+description: ~
+tags: ~
+urls: ~
+created: 20250928T211608Z
+api_version: 1

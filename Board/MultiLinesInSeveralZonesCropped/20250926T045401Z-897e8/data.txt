@@ -1,0 +1,10 @@
+file: MultiLinesInSeveralZonesCropped.qs2
+file_size: 67738
+pin_hash: 897e8ab6c2a3b8b0
+type: qs2
+title: 'MultiLinesInSeveralZonesCropped: a pinned 373 x 10 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250926T045401Z
+api_version: 1

@@ -1,0 +1,10 @@
+file: AcsVariablesByZoneId.qs2
+file_size: 59143
+pin_hash: c53f8e18bdcac897
+type: qs2
+title: Acs Variables By Zone Id
+description: ~
+tags: ~
+urls: ~
+created: 20250928T212626Z
+api_version: 1

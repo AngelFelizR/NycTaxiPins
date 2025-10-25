@@ -1,0 +1,10 @@
+file: SimulationHourlyWage.qs2
+file_size: 17644
+pin_hash: b6ce3a7ef39492b1
+type: qs2
+title: 'SimulationHourlyWage: a pinned 818 x 11 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250925T212926Z
+api_version: 1

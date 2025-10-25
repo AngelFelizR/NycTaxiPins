@@ -1,0 +1,10 @@
+file: PolygonDensityFeatures.qs2
+file_size: 66487
+pin_hash: 46a601a14a709892
+type: qs2
+title: 'PolygonDensityFeatures: a pinned 199 x 457 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250926T050014Z
+api_version: 1

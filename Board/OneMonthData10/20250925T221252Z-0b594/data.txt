@@ -1,0 +1,10 @@
+file: OneMonthData10.qs2
+file_size: 1398019
+pin_hash: 0b59411e8f76f595
+type: qs2
+title: 'OneMonthData10: a pinned 32263 x 28 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250925T221252Z
+api_version: 1

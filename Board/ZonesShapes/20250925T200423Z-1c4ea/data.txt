@@ -1,0 +1,10 @@
+file: ZonesShapes.qs2
+file_size: 1043681
+pin_hash: 1c4eaee76c9c5314
+type: qs2
+title: 'ZonesShapes: a pinned 263 x 7 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250925T200423Z
+api_version: 1

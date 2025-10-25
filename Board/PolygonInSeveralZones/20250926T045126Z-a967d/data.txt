@@ -1,0 +1,10 @@
+file: PolygonInSeveralZones.qs2
+file_size: 354327
+pin_hash: a967d5629327a9fc
+type: qs2
+title: 'PolygonInSeveralZones: a pinned 1730 x 10 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250926T045126Z
+api_version: 1

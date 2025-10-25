@@ -1,0 +1,10 @@
+file: ConsolidatedVariableTractsByZoneId.qs2
+file_size: 4861062
+pin_hash: 3a52f06f786de0a0
+type: qs2
+title: Consolidated Variable Tracts By Zone Id
+description: ~
+tags: ~
+urls: ~
+created: 20250928T202216Z
+api_version: 1

@@ -1,0 +1,10 @@
+file: LinesWithinZones.qs2
+file_size: 16516033
+pin_hash: edf087e89c6a82c9
+type: qs2
+title: 'LinesWithinZones: a pinned 273334 x 10 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250926T042059Z
+api_version: 1

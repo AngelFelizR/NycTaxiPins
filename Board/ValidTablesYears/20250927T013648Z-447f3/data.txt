@@ -1,0 +1,10 @@
+file: ValidTablesYears.qs2
+file_size: 403
+pin_hash: 447f3c1c884e59b3
+type: qs2
+title: 'ValidTablesYears: a pinned 23 x 3 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20250927T013648Z
+api_version: 1
